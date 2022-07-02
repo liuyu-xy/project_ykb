@@ -1,5 +1,4 @@
 package com.itheima.demo;
 
-public class demo1 {
-
+public class jcdemo {
 }
